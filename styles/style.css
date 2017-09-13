@@ -1,0 +1,25 @@
+h1 {
+  text-align: center;
+}
+
+#container{
+  height: 450px;
+  width: 450px;
+  border: 1px solid black;
+  margin-top: 10px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.square {
+  border: 0px solid black;
+  float: left;
+}
+
+.hover {
+  background-color: black;
+}
+
+.button {
+  text-align: center;
+}
